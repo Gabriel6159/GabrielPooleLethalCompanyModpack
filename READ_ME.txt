@@ -1,3 +1,5 @@
+for michael and luke, if you are having issues downloading, click on the green 'code' button and press dowwnload Zip file
+
 Find the lethal company folder (Steam -> Lethal Company -> Manage -> Browse local files)
 Put the bepinex folder's contents into the lethal company folder 
 then run the game until it asks you to choose online or lan
